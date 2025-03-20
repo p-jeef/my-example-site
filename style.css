@@ -1,0 +1,24 @@
+h1{
+    color:red;
+}
+.photos img{
+    width:100%;
+}
+.cluster of photos{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap:20px;
+}
+.h1 main{
+    color:blueviolet;
+}
+images{
+    width:100%;
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    grid-column-gap:20px;
+}
+.p1{
+    list-style:lower-greek;
+    display:inline-block;
+}
